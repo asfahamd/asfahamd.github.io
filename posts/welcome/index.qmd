@@ -1,0 +1,13 @@
+---
+title: "Welcome To My Blog"
+author: "Meron Asfaha"
+date: "2024-04-20"
+categories: [news, code, analysis]
+image: "image.jpg"
+---
+
+This was a project using DHS data. You can find the project \[here\](<https://the-graph-courses.github.io/rbb_cohort_3_materials/final_project_htmls/meron_asfaha_finalproject.html>) {target="\_blank"}
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
