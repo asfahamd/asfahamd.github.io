@@ -1,12 +1,12 @@
 ---
-title: "Welcome To My Blog"
+title: "DHS Kenya Contraception Project"
 author: "Meron Asfaha"
 date: "2024-04-20"
 categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-This was a project using DHS data. You can find the project \[here\](<https://the-graph-courses.github.io/rbb_cohort_3_materials/final_project_htmls/meron_asfaha_finalproject.html>) {target="\_blank"}
+This was a project using DHS data. You can find the project [here](https://the-graph-courses.github.io/rbb_cohort_3_materials/final_project_htmls/meron_asfaha_finalproject.html){target="blank"}.
 
 ![](thumbnail.jpg)
 
