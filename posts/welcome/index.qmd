@@ -6,8 +6,6 @@ categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-This was a project using DHS data. You can find the project [here](https://the-graph-courses.github.io/rbb_cohort_3_materials/final_project_htmls/meron_asfaha_finalproject.html){target="blank"}.
+This was a project using DHS data. You can find the project [here](file:///Users/meronasfaha/Documents/GitHub/asfahamd.github.io/posts/FinalProject_KenyaDHS%20copy.html){target="blank"}.
 
 ![](thumbnail.jpg)
-
-Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.
