@@ -1,13 +1,17 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
-date: "2024-04-23"
+title: "Gapminder Dashboard | Newborn Mortality, Basic Sanitation"
+author: "Meron Asfaha"
+date: "2024-06-24"
 categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
-This is a post with executable code.
+This project is of a dashboard using data from the Gapminder Foundation. You can find the project [here](file:///Users/meronasfaha/Documents/GitHub/asfahamd.github.io/posts//Users/meronasfaha/Desktop/RBootcamp/Advanced R Bootcamp/Final Project/final_gapminder_dash.qmd.html){target="blank"}.
 
-```{r}
-1 + 1
-```
+The Gapminder Foundation is a non-profit venture registered in Stockholm, Sweden, that promotes sustainable global development and achievement of the United Nations Millennium Development Goals by increased use and understanding of statistics and other information about social, economic, and environmental development at local, national, and global levels.
+
+Neonatal mortality rate data captures children dying within the first 28 days per 1000 live births. source_url:https://www.childmortality.org/
+
+Newborn mortality (deaths) captures neonatal deaths (children dying within the first 28 days). source_url:https://www.childmortality.org/
+
+Basic sanitation data captures the percentage of people using at least basic sanitation services, that is, improved sanitation facilities that are not shared with other households. This indicator encompasses both people using basic sanitation services as well as those using safely managed sanitation services. Improved sanitation facilities include flush/pour flush to piped sewer systems, septic tanks or pit latrines; ventilated improved pit latrines, compositing toilets or pit latrines with slabs. source_url:https://data.worldbank.org/indicator/SH.STA.ACSN
